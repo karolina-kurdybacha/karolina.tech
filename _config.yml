@@ -8,3 +8,4 @@ plainwhite:
   social_links:
     github:  karolina-kurdybacha
     linkedIn: in/karolinakurdybacha # format: locale/username
+theme: jekyll-theme-cayman
