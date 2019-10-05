@@ -1,3 +1,21 @@
 theme: minima
-title: Karolina Kurdybacha
+title: Product Management
+
+author: Karolina Kurdybacha
+# email: 'blabla'
+description: > # this means to ignore newlines until "show_excerpts:"
+  Product Management, Product Owner, Backlog, Agile, vision, roadmap, planning, sprint, kanban
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+header_pages:
+  - about.md
+
+minima:
+  date_format: "%b %d, %Y"
+
+  social_links: 
+    linkedin: karolinakurdybacha
+    github: karolina-kurdybacha
+
 
