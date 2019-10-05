@@ -2,7 +2,6 @@ theme: minima
 title: Product Management
 
 author: Karolina Kurdybacha
-# email: 'blabla'
 description: > # this means to ignore newlines until "show_excerpts:"
   Product Management, Product Owner, Backlog, Agile, vision, roadmap, planning, sprint, kanban
 
