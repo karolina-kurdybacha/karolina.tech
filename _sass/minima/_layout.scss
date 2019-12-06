@@ -24,7 +24,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: #FF7171;
   }
 }
 
@@ -139,7 +139,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: rgb(158, 158, 158);
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -200,7 +200,8 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1.2);
+  color: rgb(158, 158, 158);
 }
 
 .post-list {
@@ -231,14 +232,19 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title,
+.post-title {
+  @include relative-font-size(2.6);
+  color: #3e3e3e;
+}
+
+
 .post-content h1 {
-  @include relative-font-size(2.625);
+  @include relative-font-size(2.2);
   letter-spacing: -1px;
   line-height: 1;
 
   @media screen and (min-width: $on-large) {
-    @include relative-font-size(2.625);
+    @include relative-font-size(2.2);
   }
 }
 
@@ -246,7 +252,7 @@
   margin-bottom: $spacing-unit;
 
   h2 {
-    @include relative-font-size(1.75);
+    @include relative-font-size(1);
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);

@@ -108,12 +108,13 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: #3e3e3e
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    //color: $text-color;
+    color: #535353;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {
@@ -152,7 +153,7 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: rgb(241, 241, 241);
 }
 
 code {
