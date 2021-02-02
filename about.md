@@ -8,6 +8,4 @@ permalink: /about/
 
 ![my photo](/assets/images/chubb-chubbs-14.jpg)
 
-I am one of the chubb-chubbs.
 
-http://www.sonypicturesmuseum.com/collection/612/chubbchubbs-the
