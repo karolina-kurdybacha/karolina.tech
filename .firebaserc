@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "sru-main": "sru-main"
+  },
+  "targets": {
+    "sru-main": {
+      "hosting": {
+        "prod": [
+          "karolina-tech"
+        ]
+      }
+    }
+  }
+}
